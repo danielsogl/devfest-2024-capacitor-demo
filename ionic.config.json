@@ -1,0 +1,7 @@
+{
+  "name": "devfest-backup",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
